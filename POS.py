@@ -30,9 +30,9 @@ class POS:
         self.products = {}
 
 # Create some products
-product1 = Product("Apple",  2)
-product2 = Product("Orange", 1)
-product3 = Product("Banana", 3)
+product1 = Product("Banana",  2)
+product2 = Product("Pineapple", 1)
+product3 = Product("Avocado", 3)
 
 # Initialize the POS system and add some products
 pos = POS()
