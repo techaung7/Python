@@ -16,7 +16,7 @@ print("introduce myself.")
 
 
 #Variables
-name = "Htet Aung Hlaing"
+name = "Htet Aung"
 age = 28
 right = True
 wrong = False
